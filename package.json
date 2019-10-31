@@ -1,0 +1,14 @@
+{
+  "name": "test-api-client",
+  "version": "1.0.0",
+  "description": "Test Echo API Client",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "author": "Fernando Carreño",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
