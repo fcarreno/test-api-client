@@ -7,7 +7,5 @@
 
 1. Clone the repo
 2. `npm install` (install dependencies)
-3. `node client.js [textToEcho]`. E.g.: `node client.js hello there`
-   Alternatively run `npm start [textToEcho]`
-
-
+3. `node client.js [textToEcho]`. E.g.: `node client.js hello there`  
+    Alternatively run `npm start [textToEcho]`
